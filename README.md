@@ -29,7 +29,7 @@
 <img src="https://skillicons.dev/icons?i=aws,azure" />
 
 ### ⚙️ DevOps & Automation
-<img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,terraform,ansible" />
+<img src="https://skillicons.dev/icons?i=Azure Devops,jenkins,docker,kubernetes,terraform" />
 
 ### 💻 Programming & Version Control
 <img src="https://skillicons.dev/icons?i=python,bash,git,github" />
