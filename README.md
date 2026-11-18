@@ -5,7 +5,7 @@
 
 ### 🚀 DevOps Engineer | ☁️ Cloud Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+Infrastructure+Enthusiast;AWS+%7C+Azure+Cloud+Platforms;Docker+%7C+Kubernetes+%7C+Jenkins;Terraform+%7C+Infrastructure+as+Code;GitOps+%7C+Argo+CD;CI%2FCD+%7C+Cloud+Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+Infrastructure+Enthusiast;AWS+%7C+Azure+Cloud+Platforms;Docker+%7C+Kubernetes+%7C+Jenkins+%7C+githubactions;Terraform+%7C+Infrastructure+as+Code;GitOps+%7C+Argo+CD;CI%2FCD+%7C+Cloud+Automation" alt="Typing SVG" />
 
 </div>
 
