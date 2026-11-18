@@ -165,7 +165,7 @@ Building reliable, scalable and automated infrastructure solutions through:
 
 <div align="center">
 
-<a href="https://github.com/vijaykumar-devops">
+<a href="https://github.com/vijaycloudops/vijaykumar-devops">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
