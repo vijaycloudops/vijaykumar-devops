@@ -93,6 +93,13 @@ Building reliable, scalable and automated infrastructure solutions through:
 
 ---
 
+## 🏆 Certifications & Achievements
+
+- 🥇 **Microsoft Certified: Azure Fundamentals (AZ-900)**
+  - Understanding of Microsoft Azure cloud concepts.
+  - Knowledge of Azure services, architecture and solutions.
+  - Understanding of Azure security, governance and pricing.
+
 ## 🤝 Connect With Me
 
 <div align="center">
