@@ -5,7 +5,7 @@
 
 ### 🚀 DevOps Engineer | ☁️ Cloud Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Infrastructure+Enthusiast;AWS+%7C+Azure+%7C+Terraform;Docker+%7C+Kubernetes+%7C+Jenkins;Automating+Infrastructure+%26+Deployments" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=DevOps+Engineer+%7C+4+Years+Experience;AWS+%7C+Azure+Cloud+Platforms;Docker+%7C+Kubernetes+%7C+Jenkins;Terraform+%7C+Infrastructure+as+Code;CI%2FCD+%7C+Cloud+Automation" alt="Typing SVG" />
 
 </div>
 
@@ -13,16 +13,17 @@
 
 ## 👨‍💻 About Me
 
-- 👋 Hi, I'm **Vijay Kumar Kunja**.
-- 💼 4 years of professional experience in software testing activities.
-- ☁️ Building practical expertise in **DevOps and Cloud Engineering**.
-- 🔧 Interested in CI/CD automation and Infrastructure as Code.
-- 🚀 Practising containerization, cloud infrastructure and Kubernetes deployments.
-- 📚 Continuously learning and building hands-on projects.
+- 🚀 DevOps Engineer with 4 years of professional experience.
+- ☁️ Interested in Cloud Infrastructure and Cloud Engineering.
+- ⚙️ Working with CI/CD pipelines and automation technologies.
+- 🐳 Exploring containerization using Docker and Kubernetes.
+- 🔧 Infrastructure as Code using Terraform.
+- 📊 Interested in monitoring, logging and observability.
+- 💡 Passionate about automation, scalability and continuous improvement.
 
 ---
 
-## 🛠️ Technical Skills & Tools
+## 🛠️ Technical Skills
 
 ### ☁️ Cloud Platforms
 <img src="https://skillicons.dev/icons?i=aws,azure" />
@@ -30,7 +31,7 @@
 ### ⚙️ DevOps & Automation
 <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,terraform,ansible" />
 
-### 💻 Programming & Scripting
+### 💻 Programming & Version Control
 <img src="https://skillicons.dev/icons?i=python,bash,git,github" />
 
 ### 📊 Monitoring & Operating Systems
@@ -38,46 +39,57 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 DevOps Projects
 
-### ☁️ 1. AWS Infrastructure Automation
-- Infrastructure provisioning using Terraform.
-- AWS networking and compute resources.
-- Infrastructure configuration and management.
+### ☁️ AWS Infrastructure Automation
+- AWS infrastructure provisioning using Terraform.
+- VPC, subnets and networking configuration.
+- EC2, IAM and cloud resource management.
 
-### 🔄 2. CI/CD Pipeline Automation
-- Jenkins pipeline implementation.
-- Automated application builds.
-- Docker image creation and deployment.
+### 🔄 CI/CD Pipeline Automation
+- Jenkins declarative pipeline implementation.
+- Automated application build and deployment.
+- Docker image build and registry integration.
 
-### 🐳 3. Docker & Kubernetes Deployment
+### 🐳 Docker & Kubernetes
 - Application containerization using Docker.
 - Kubernetes Deployments and Services.
 - ConfigMaps, Secrets and application scaling.
+- Helm-based application deployment.
 
-### 📈 4. Monitoring & Observability
+### 📈 Monitoring & Observability
 - Prometheus metrics collection.
 - Grafana dashboard configuration.
-- Infrastructure monitoring and alerts.
-
-*Project descriptions will be updated with actual implementation details, source code and screenshots as projects are completed.*
+- Infrastructure monitoring and alerting.
 
 ---
 
-## 📚 Currently Learning
+## 📚 Technologies & Tools
 
-- AWS Cloud Engineering
-- Terraform Infrastructure Automation
-- Jenkins CI/CD Pipelines
-- Docker & Kubernetes
-- Prometheus & Grafana
-- Bash & Python Automation
+| Category | Technologies |
+|---|---|
+| Cloud | AWS, Azure |
+| CI/CD | Jenkins, GitHub Actions |
+| Containers | Docker |
+| Orchestration | Kubernetes |
+| IaC | Terraform, Ansible |
+| Monitoring | Prometheus, Grafana |
+| OS | Linux |
+| Scripting | Bash, Python |
+| Version Control | Git, GitHub |
 
 ---
 
-## 🎯 Career Objective
+## 🎯 Professional Focus
 
-To develop strong practical expertise in DevOps and Cloud Engineering by building automated, scalable and reliable infrastructure solutions.
+Building reliable, scalable and automated infrastructure solutions through:
+
+- Infrastructure as Code
+- Continuous Integration & Continuous Delivery
+- Cloud Infrastructure Management
+- Container Orchestration
+- Monitoring & Observability
+- DevOps Automation
 
 ---
 
@@ -99,8 +111,9 @@ To develop strong practical expertise in DevOps and Cloud Engineering by buildin
 
 <div align="center">
 
-### 💡 "Automate Everything. Monitor Everything. Improve Every Day."
+### 💡 Automate Everything | Build Efficiently | Improve Continuously
 
 ⭐ Thanks for visiting my GitHub profile!
 
 </div>
+
